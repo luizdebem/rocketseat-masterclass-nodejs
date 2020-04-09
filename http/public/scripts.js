@@ -11,6 +11,10 @@ async function remove(name, url) {
     const response = await fetch(`http://localhost:3000/?name=${name}&url=${url}&del=1`).then();
 }
 
+async function create(name, url) {
+    const response = await fetch(`http://localhost:3000/?name=${name}&url=${url}`).then(data => data.json());
+}
+
 load();
 
 function addElement({ name, url }) {
@@ -55,6 +59,8 @@ form.addEventListener("submit", (event) => {
         return alert("Digite a url da maneira correta")
 
     addElement({ name, url })
+
+    create(name, url);
 
     input.value = ""
 })
