@@ -1,0 +1,48 @@
+{"free":"772 MB","total":"11905 MB","usage":"6%"}
+{"free":"770 MB","total":"11905 MB","usage":"6%"}
+{"free":"798 MB","total":"11905 MB","usage":"6%"}
+{"free":"827 MB","total":"11905 MB","usage":"6%"}
+{"free":"828 MB","total":"11905 MB","usage":"6%"}
+{"free":"829 MB","total":"11905 MB","usage":"6%"}
+{"free":"829 MB","total":"11905 MB","usage":"6%"}
+{"free":"829 MB","total":"11905 MB","usage":"6%"}
+{"free":"829 MB","total":"11905 MB","usage":"6%"}
+{"free":"830 MB","total":"11905 MB","usage":"6%"}
+{"free":"831 MB","total":"11905 MB","usage":"6%"}
+{"free":"829 MB","total":"11905 MB","usage":"6%"}
+{"free":"799 MB","total":"11905 MB","usage":"6%"}
+{"free":"795 MB","total":"11905 MB","usage":"6%"}
+{"free":"796 MB","total":"11905 MB","usage":"6%"}
+{"free":"796 MB","total":"11905 MB","usage":"6%"}
+{"free":"737 MB","total":"11905 MB","usage":"6%"}
+{"free":"687 MB","total":"11905 MB","usage":"5%"}
+{"free":"694 MB","total":"11905 MB","usage":"5%"}
+{"free":"695 MB","total":"11905 MB","usage":"5%"}
+{"free":"701 MB","total":"11905 MB","usage":"5%"}
+{"free":"703 MB","total":"11905 MB","usage":"5%"}
+{"free":"776 MB","total":"11905 MB","usage":"6%"}
+{"free":"770 MB","total":"11905 MB","usage":"6%"}
+{"free":"756 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:19 GMT-0300 (Brasilia Standard Time)
+{"free":"757 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:20 GMT-0300 (Brasilia Standard Time)
+{"free":"757 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:21 GMT-0300 (Brasilia Standard Time)
+{"free":"764 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:22 GMT-0300 (Brasilia Standard Time)
+{"free":"765 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:23 GMT-0300 (Brasilia Standard Time)
+{"free":"745 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:24 GMT-0300 (Brasilia Standard Time)
+{"free":"750 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:25 GMT-0300 (Brasilia Standard Time)
+{"free":"744 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:26 GMT-0300 (Brasilia Standard Time)
+{"free":"750 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:27 GMT-0300 (Brasilia Standard Time)
+{"free":"753 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:28 GMT-0300 (Brasilia Standard Time)
+{"free":"756 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:29 GMT-0300 (Brasilia Standard Time)
+{"free":"756 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:30 GMT-0300 (Brasilia Standard Time)
+{"free":"761 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:31 GMT-0300 (Brasilia Standard Time)
+{"free":"750 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:32 GMT-0300 (Brasilia Standard Time)
+{"free":"743 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:33 GMT-0300 (Brasilia Standard Time)
+{"free":"735 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:34 GMT-0300 (Brasilia Standard Time)
+{"free":"734 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:35 GMT-0300 (Brasilia Standard Time)
+{"free":"735 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:36 GMT-0300 (Brasilia Standard Time)
+{"free":"738 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:37 GMT-0300 (Brasilia Standard Time)
+{"free":"742 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:38 GMT-0300 (Brasilia Standard Time)
+{"free":"751 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:39 GMT-0300 (Brasilia Standard Time)
+{"free":"751 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:40 GMT-0300 (Brasilia Standard Time)
+{"free":"755 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:41 GMT-0300 (Brasilia Standard Time)
+{"free":"760 MB","total":"11905 MB","usage":"6%"} -> Wed Apr 08 2020 21:16:42 GMT-0300 (Brasilia Standard Time)
